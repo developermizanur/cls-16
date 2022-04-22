@@ -1,0 +1,42 @@
+/* defult-css */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* img{
+    width: 100%;
+} */
+
+
+/* header-section */
+.header-section{
+    background-color: #101446;
+}
+
+/* banner-section */
+.banner-section{}
+
+/* team-section */
+.team-section{}
+
+.team-section .col-md-4{
+    width: 20%;
+    margin-left: 10%;
+}
+
+/* about-section */
+.about-section{
+  
+}
+
+/* contact-section */
+.contact-section{
+   
+}
+
+/* footer-section */
+.footer-section{
+    
+} 
+
